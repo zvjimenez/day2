@@ -9,6 +9,9 @@ public class DemoDay2 {
 	public void add(int a, int b) {
 		System.out.println(a+b);
 	}
+	
+	String message = "Coming From Local Workspace..";
+	
 }
 
 // 			This is coming from another team member
